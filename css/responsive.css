@@ -1,0 +1,305 @@
+@media only screen and (max-width:990px){
+.container				{ width:739px;}
+nav						{ width:92%;}
+.pumping_lft			{ padding:0;}
+.pumping_rgt			{ width:300px;}
+.pumping_rgt img		{ width:100%; height:auto;}
+.logo2			{ margin:0 0 11px 0;}
+.pumping_lft h4			{ padding:0 0 18px 0;}
+.pumping_lft p			{ padding:0 21px 27px 0;}
+.bulit_in				{ width:739px;}
+.pos3 				    { top:-367px; left:-228px;} 
+.pos2					{ left: -397px; bottom: -95px;}
+.commit_in				{ width:100%;} 
+.selling				{ width:100%;}
+.selling_in				{ width:429px;}
+.facts_in				{ width:739px;}
+.facts_in1				{ width:724px;}
+.percentages_main			{ width:271px; margin:0 19px 0 0;}
+.percentages_top		{ width:90%;}
+.percentages_top h4		{ font-size:37px; padding:0 8px 0 0;}
+.percentages_main2			{ margin:0 22px 0 0; width:161px !important;}
+.percentages_main3			{ width:231px !important; margin:0;}
+.facts					{ padding:70px 0 70px 0;}
+.facts_in1_top ul li:nth-child(1) { margin:0px 218px 0px 0px !important;}
+.facts_in1_top ul li:nth-child(2) { margin:0px 140px 0px 0px !important; }
+.facts_in2				{ margin:-11px 0 0 0;}
+.facts_in3				{ margin:-10px 0 0 0;}
+.facts_in3_in			{ width:719px;} 
+.facts_in5 .percentages_main2 { margin:0 35px 0 0 !important;}
+.facts_in3_in .percentages_main4	{ width:226px !important;}
+.facts_in3_in .percentages_main2	{ width:252px !important;}
+.facts_in3_in .facts_in1_top ul li { margin:0 273px 0 0 !important;}
+.facts_in5 .facts_in1_top ul { margin:0 0 0 13px;}
+.facts_in5 .facts_in1_btm	{ width:99%;}
+.facts_in5 .percentages_main	{ margin:0 20px 0 0; width:259px;}
+.facts_in5 .percentages_main3 { margin:0 0 0 0 !important;}
+.facts_in5 .facts_in1_top ul li:nth-child(2) { margin:0px 203px 0px 0px !important;} 
+.facts_in6			{ width:54%; margin:-8px 0 0 0;} 
+.facts_in7 .facts_in1_top  { margin:-26px 0 0 0;}
+.facts_in5 .facts_in1_top ul li:nth-child(1)	{ margin:0px 120px 0px 0px !important;}
+.increase				{ padding:76px 0 76px 0;}
+.increase_in			{ width:700px;}
+.simples_in				{ width:734px;}
+.simples_in ul			{ padding:0;}
+.simples_in ul li		{ margin:0 79px 0 0;}
+.simples_in ul li:nth-child(2) { margin:0px 79px 0px 0px !important;}
+.simples				{ padding:76px 0 76px 0;}
+.arw1					{ bottom:-105px;}
+.calender				{ padding:73px 0 73px 0;}
+.dates					{ margin:0 0 32px 0;}
+.prepared ul			{ width:98%; margin:0 auto;}
+.prepared ul li 		{ padding:0 10px 8px 10px;}
+.prepared ul li small	{ padding:0;}
+.iniciate				{ width:178px; margin:0 9px 0 0;}
+.iniciate_in			{ width:133px;}
+.iniciate_in h5			{ font-size:25px;}
+.iniciate_in h5	em		{ font-size:25px;} 
+.iniciate4 .iniciate_in p {  padding:95px 4px 131px 4px;}
+.palav					{ margin:0 0 23px 0; min-height:222px;}
+.iniciate_in a			{ font-size:17px;}
+.contents ul li			{ width:132px;}
+.contents ul li h6		{ font-size:21px;}
+.contents ul			{ width:99.5%;}
+.contents ul li:nth-child(5) { width:194px !important;}
+.opportunity_in			{ width:729px;}
+.opportunity_in h3		{ font-size:47px;}
+.response				{ padding:60px 0 60px 0;}
+.response_in			{ width:738px;}
+.response_in h3			{ padding:0 0 53px 0;}
+.foundress_in			{ width:729px;}
+.facts_in7 .percentages_main9 { margin:0 80px 0 0}
+.facts_in7				{ margin:0;}
+.bussiness_in				{ background:url(../images/transparent2.png) repeat;}
+.iniciate3 p			{ padding:0 0px 23px;} 
+.ronald_in				{ width:739px;}
+.bain_in				{ width:739px;}
+.esto_in				{ width:739px;}
+.bain					{ background:url(../images/heading_bg2.png) no-repeat 48% bottom;}
+.ronald					{ background:url(../images/heading_bg2.png) no-repeat 48% bottom;}
+.esto					{ padding:0 0 70px 0;}
+}  
+@media only screen and (max-width:767px){
+.container				{ width:640px;}
+nav						{ width:91%;}
+.pumping_lft			{ width:350px;}
+.logo2					{ width:100%;}
+.pumping_lft a img		{ width:100%; height:auto;}
+.pumping_rgt			{ width:278px;}
+.built					{ padding:80px 0 80px 0;}
+.bulit_in				{ width:630px;}
+.pos3					{ left:-296px;}
+.commit					{ padding:20px 0 20px 0;}
+.selling_in				{ width:330px;}
+.facts_in				{ width:640px;}
+.facts_in1				{ width:624px;}
+.percentages_main			{ width:222px !important;}
+.percentages_main3			{ width:137px !important;}
+.percentages_main2			{ width:145px !important;}
+.facts_in3_in			{ width:620px;}
+.facts_in3_in .facts_in1_top ul li	{ margin:0 228px 0 0 !important;}
+.facts_in3_in .percentages_main4	{ margin:0 57px 0 0;}
+.facts_in5 .percentages_main	{ width:200px !important;}
+.facts_in5 .percentages_main2	{ width:150px !important;}
+.facts_in5 .percentages_top	{ width:86%;}
+.facts_in5 .percentages_main3 	{ margin:0;}
+.facts_in5 .facts_in1_top ul li:nth-child(2) { margin:0px 164px 0px 0px !important;}
+.increase_in			{ width:620px;}
+.mas					{ width:100%;}
+.simples_in				{ width:633px;}
+.simples_in ul li		{ margin:0 35px 0 0;}
+.simples_in ul li:nth-child(2)	{ margin:0px 22px 0px 0px !important;}
+.iniciate_main			{ width:610px; margin:0 auto; display:block;}
+.iniciate				{ width:300px; margin:0 9px 16px 0;}
+.iniciate_in			{ width:260px;}
+.iniciate2				{ margin:0;}
+.iniciate4				{ margin:0;}
+.iniciate4 .iniciate_in p  { padding:112px 4px 176px 4px;} 
+.contents ul li			{ width:108px;}
+.contents ul li h6		{ font-size:19px;}
+.certified_in			{ width:640px; background-size:100% 100%;}
+#warped1				{ left:-96px;}
+#warped2				{ left:-89px;}
+.opportunity_in			{ width:620px;}  
+.response_in			{ width:640px;}
+.foundress_in			{ width:640px;}
+.foundress_in_btm		{ width:622px; padding:0;}
+.foundress_in h3		{ font-size:44px; padding:79px 0 0 0;}
+.footer_in				{ width:632px;}
+.inclusive				{ width:100%;}
+.graphs1				{ margin:0; width:313px;}
+.ronald_in				{ width:640px;}
+.bain_in				{ width:640px;}
+.esto_in				{ width:640px;}
+.bain					{ background:url(../images/heading_bg2.png) no-repeat 45.5% bottom;}
+.ronald					{ background:url(../images/heading_bg2.png) no-repeat 45.5% bottom;}
+.consumer				{ width:100%; padding:0;}
+.selling_main			{ padding:0 0 54px 0;}
+.ronald_in h5			{ font-size:27px;} 
+}
+@media only screen and (max-width:667px){
+.container				{ width:97%;}
+.toggle					{ display:inline-block;}
+header					{ position:relative;}
+nav						{ display:none; float:none; width:100%; position:absolute; top:45px; left:0; background:#484847; padding:10px 0 10px 0;}
+nav ul					{ display:block;}
+nav ul li				{ float:none; display:block; text-align:center; padding:0 0 10px 0; margin:0;}
+nav ul li:hover			{ background:none;}
+nav ul li a				{ display:block;}
+.blog					{ display:block; text-align:center; float:none; background:none; color:#fff; padding:0;}
+.blog:hover				{ color:#fff; }
+.pumping				{ padding:39px 0 39px 0; margin:0;}
+.pumping_lft			{ width:100%; float:none; display:block; margin:0 0 30px 0; text-align:center;}
+.logo2					{ width:60%; text-align:center; margin:0 auto; display:block;}
+.pumping_lft p			{ padding:0 0 27px 0;}
+.pumping_rgt			{ float:none; display:block; margin:0 auto; width:72%;}
+.bussiness_in			{ padding:40px 0 40px 0;}
+.bussiness_in_lft		{ float:none; display:block; width:100%;}
+.bussiness_in_lft h3	{ font-size:44px; line-height:50px;}
+.built_rgt h3			{ font-size:44px; line-height:50px;}
+.built					{ padding:30px 0 30px 0;}
+.bulit_in				{ width:95%;}
+.built_rgt				{ float:none; display:block; margin:0 auto; width:100%; text-align:left;}
+.pos1					{ display:none;}
+.pos2					{ display:none;}
+.pos3					{ display:none;}
+.selling				{ float:none; display:block; position:relative;}
+.inclusive h3			{ font-size:44px; line-height:50px;}
+.selling h3				{ font-size:44px; line-height:50px;}
+.selling_in				{ float:none; display:block; margin:0; padding:0 0 0 0; width:100%; border:none;} 
+.consumer				{ width:95%; margin:0 auto; padding:0;}
+.seeling_rgt			{  float:none; display:block; background:none;}
+.facts_in				{ width:97%;}
+.inclusive				{ width:100%;}
+.commit_in				{ float:none; display:block;}
+.facts					{ padding:30px 0 30px 0;}
+.facts_in h3			{ font-size:44px; line-height:50px; padding:0 0 12px 0;}
+.facts_in1				{ width:100%; float:none; display:block; padding:0;}
+.facts_in2				{ display:none;}
+.facts_in3				{ display:block; float:none; width:100%; padding:0;}
+.facts_in3_in			{ width:100%; float:none; display:block;}
+.facts_in5 .facts_in1_btm { float:none; display:block; width:100%;}
+.pipe					{ border:none;} 
+.percentages_main		{ float:none; display:block; width:100% !important; clear:both; margin:0 0 20px 0;}
+.percentages_main h6	{ float:left; display:inline-block; margin:0 12px 0 0;}
+.percentages			{ float:left; display:inline-block; width:81%;}
+.percentages2			{ width:76% !important;}
+.facts_in3_in .percentages_main2	{ width:100% !important; margin:0 0 20px 0;}
+.facts_in5 .percentages_top	{ width:92%; 	}
+.facts_in5 .percentages_main2	{ width:100% !important;}
+.facts_in5 .percentages_main	{ width:100% !important; margin:0 0 20px 0 !important;}
+.facts_in span			{ padding:0 0 15px 0;}
+.percentages_top		{ width:92%;}
+.increase				{ padding:30px 0 30px 0;}
+.increase_in			{ width:97%; margin:0 auto; }
+.increase_in h3			{font-size:44px; line-height:50px; padding:0 0 12px 0; }
+.increase_in h3 br		{ display:none;}
+.tive p					{ padding:0 0 23px 0;}
+.tive span				{ padding:0;}
+.simples				{ padding:30px 0 30px 0;}
+.simples_in				{ width:100%;}
+.simples_in ul			{ display:block;}
+.simples_in ul li		{ float:none; display:block; margin:0 auto; width:100% !important;}
+.simples_in ul li:nth-child(2) { margin:0 auto !important; width:100% !important;} 
+.simples_in ul li:nth-child(3) { margin:0 auto !important; width:100% !important;}
+.simples_in ul li:nth-child(3) span	{ margin:0 auto 31px !important;}
+.simples_in ul li span	{ margin:0 auto 31px;} 
+.simples_in ul li h5	{ text-align:center;}
+.arw1					{     bottom: -58px;}
+.calender_in			{ width:100%;}
+.dates					{ margin:0 auto 32px !important; width:98%;}
+.calender				{ padding:70px 0 26px 0;}
+.prepared 				{ width: 100%; background: #29405e;padding: 38px 0 38px 0;}
+.prepared h3			{ font-size:44px; line-height:50px;}
+.prepared h3 br			{ display:none;}
+.popular				{ padding:38px 0 38px 0;}
+.iniciate_main			{ width:100%;}
+.iniciate				{ float:none; display:block; margin:0 auto 20px; width:100%;}
+.iniciate_in			{ width:91%;}
+.contents ul li			{ float:none; display:block; width:100%; text-align:center;border-bottom: 2px dashed #64c4db; padding:20px 0 20px 0;}
+.contents ul li:nth-child(5) { width:100% !important;}
+.contents ul li h6		{ padding:0 0 20px 0;}
+.certified_in			{ width:95%;}
+.certified_in p			{ padding:15px 37px 33px 37px;}
+#warped1				{ top:-368px; left:-263px;}
+#warped2				{ top:-346px; left:-263px;}
+.opportunity_in			{ width:98%; margin:0 auto;}
+.opportunity_in h3		{ font-size:44px; line-height:50px; padding:0;}
+.response				{ padding:30px 0 30px 0;}
+.response_in			{ width:95%; margin:0 auto;} 
+.response_in h3			{ font-size:44px; line-height:50px; }
+.foundress				{ padding:33px 0 33px 0;}
+.foundress_in_top		{ background:none; margin:0 0 25px 0; padding:0;}
+.foundress_in			{ width:95%;}
+.foundress_in h3		{ padding:0; line-height:50px;}
+ .foundress_in h3 br	{ display:none;}
+.foundress_in_btm		{ width:100%;}
+.lady					{ float:none; display:inline-block;}
+.footer_in				{ width:98%;}
+.footer_in_top			{ width:100%;}
+.foot_logo				{ float:none; margin:0 auto 20px; display:block; width:244px;}
+.address				{ float:none; display:block; width:224px; margin:0 auto;}
+.foot_nav ul			{ display:block; border:none;}
+.foot_nav ul li			{ float:none; display:block; text-align:center; border:none; padding:0 0 6px 0;}
+footer					{ background-size:100% 100%; }
+.wrapping				{ width:300px;margin:0 auto;}
+.inclusive h3 br		{ display:none;}
+.graphs1				{ float:none; display:block; margin:0 auto 20px;}
+.last1					{ margin:0 auto !important;}
+footer					{ padding:20px 0 20px 0;}
+
+.commit					{ padding:20px 0 20px 0;}
+.bain					{ margin:0 0 28px 0; background:none; border-bottom:5px solid #64c4db;} 
+.ronald					{ background:none; border-bottom:5px solid #64c4db; margin:0 0 24px 0;}
+.bain_in				{ width:98%;}
+.ronald_in				{ width:98%;}
+.esto_in				{ width:98%;}
+.esto_in span			{ padding:0; font-size:24px;}
+.ronald_in h5			{ font-size:21px;}
+.esto					{ padding:0 0 31px 0;}
+}
+@media only screen and (max-width:479px){	
+.bussiness_in_lft h3 	{font-size: 35px; line-height: 39px;}
+.commit 			 	{ padding: 20px 0 20px 0;}
+.inclusive h3			{ font-size: 35px; line-height: 39px;}
+.inclusive p br			{ display:none;}
+.commit_in				{ margin:0 0 20px 0;}
+.selling h3				{ font-size:35px; line-height:39px; padding:0 0 17px 0;}
+.selling_in span		{ padding:10px 0 20px 0;}
+.facts_in h3			{  font-size: 35px; line-height: 39px;}
+.facts_in span			{ font-size:23px; line-height:26px;}
+.percentages_main h6	{ margin:0 8px 0 0;}
+.percentages			{ width:73%;}
+.percentages_top		{ width:87%; padding:0 6.5% 13px 6.5%;}
+.percentages2			{ width:65% !important;}
+.facts_in3_in .percentages2 h4	{padding:0 7px 0px 0; }
+.facts_in5 .percentages_top	{ width:85%;}
+.percentages3 h4		{ font-size:38px; } 
+.increase_in h3			{ font-size: 35px; line-height: 39px;}
+.increase_in h3	small	{ font-size:35px; line-height:39px;}
+.mas p					{ padding:0 0 27px 0;}
+.tive h5				{ margin:0 0 20px 0;} 
+.simples_in h3			{ font-size:35px; line-height:40px;}
+.prepared h3			{ font-size:35px; line-height:40px;}
+.iniciate_in			{ width:86%;}
+.contents ul			{ width:98%; margin:0 auto; display:block;}
+.contents ul li			{ border-right:none;}
+.certified_in h4		{ width:220px; margin:0 auto;}
+.certified_in h4 img	{ width:100%; height:auto;}
+#warped1				{ left:-274px;}
+#warped2				{ left:-272px;}
+.opportunity_in h3		{font-size: 35px; line-height: 39px;}
+.response_in h3			{font-size: 35px; line-height: 39px; padding:0 0 23px 0;}
+.response_in h3 br		{ display:none;}
+.response_in ul li		{ margin:0 0 26px 0;}
+.response_in h3 small	 {font-size: 35px; line-height: 39px;}
+.response_in ul li span  { font-size:25px; line-height:30px;}
+.response_in ul li span	br	{ display:none;}
+.lady					{ display:block; margin:0 auto;}
+.foundress_in h3		{ font-size:35px; line-height:40px;}
+.foundress_in h3 br		{ display:none;}
+.address				{ width:209px;}
+.wrapping				{ width:294px;}
+.graphs1				{ width:295px;}
+.graphs1 span			{ font-size:36px; }
+}    
